@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+relatorios/
+
+# dados de clientes e segredos
+*.xlsx
+*.meta_token
+.meta_token
+.env
